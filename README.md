@@ -7,15 +7,21 @@ Esta calculadora permite realizar operações matemáticas básicas como adiçã
 # Funcionalidades
 
 Adição
+
 Subtração
+
 Multiplicação
+
 Divisão
+
 Limpar a tela de cálculo
 
 # Tecnologias Utilizadas
 
 React
+
 JavaScript
+
 CSS
 
 # Estrutura do Projeto

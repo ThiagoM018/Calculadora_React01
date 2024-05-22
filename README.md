@@ -18,11 +18,11 @@ Limpar a tela de cálculo
 
 # Tecnologias Utilizadas
 
-React
+* React
 
-JavaScript
+* JavaScript
 
-CSS
+* CSS
 
 # Estrutura do Projeto
 

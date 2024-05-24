@@ -26,17 +26,17 @@ Esta calculadora permite realizar operações matemáticas básicas como adiçã
 
 # Estrutura do Projeto
 
-src/: Contém todos os arquivos de código fonte
+// src/: Contém todos os arquivos de código fonte
 
-components/: Contém os componentes React usados na aplicação
+// components/: Contém os componentes React usados na aplicação
 
-Button.js: Componente para os botões da calculadora
+// Button.js: Componente para os botões da calculadora
 
-Display.js: Componente para o display da calculadora
+// Display.js: Componente para o display da calculadora
 
-App.js: Componente principal que rendeiriza a calculadora
+// App.js: Componente principal que rendeiriza a calculadora
 
-index.js: Ponto de entrada da aplicação React
+// index.js: Ponto de entrada da aplicação React
 
 # Autor
 

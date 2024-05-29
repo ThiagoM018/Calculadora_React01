@@ -18,11 +18,11 @@ Esta calculadora permite realizar operações matemáticas básicas como adiçã
 
 # Tecnologias Utilizadas
 
-* React
+* <strong>React</strong>
 
-* JavaScript
+* <strong>JavaScript</strong>
 
-* CSS
+* <strong>CSS</strong>
 
 # Estrutura do Projeto
 

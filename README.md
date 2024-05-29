@@ -6,15 +6,15 @@ Esta calculadora permite realizar operações matemáticas básicas como adiçã
 
 # Funcionalidades
 
-* Adição
+* _Adição_
 
-* Subtração
+* _Subtração_
 
-*  Multiplicação
+*  _Multiplicação_
 
-*  Divisão
+*  _Divisão_
 
-*  Limpar a tela de cálculo
+*  _Limpar a tela de cálculo_
 
 # Tecnologias Utilizadas
 

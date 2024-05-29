@@ -24,7 +24,7 @@ Esta calculadora permite realizar operações matemáticas básicas como adiçã
 
 * <strong>CSS</strong>
 
-# Estrutura do Projeto
+# _Estrutura do Projeto_
 
 // src/: Contém todos os arquivos de código fonte
 

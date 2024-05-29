@@ -4,7 +4,7 @@ Este é um projeto de uma calculadora simples desenvolvido com React.
 # Visão Geral
 Esta calculadora permite realizar operações matemáticas básicas como adição, subtração, multiplicação e divisão. É um projeto ideal para praticar e demonstrar habilidades em React.
 
-# Funcionalidades
+# _Funcionalidades_
 
 * _Adição_
 

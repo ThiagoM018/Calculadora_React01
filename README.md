@@ -16,7 +16,7 @@ Esta calculadora permite realizar operações matemáticas básicas como adiçã
 
 *  _Limpar a tela de cálculo_
 
-# Tecnologias Utilizadas
+# _Tecnologias Utilizadas_
 
 * <strong>React</strong>
 
